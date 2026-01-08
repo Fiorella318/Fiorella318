@@ -12,7 +12,7 @@ Let’s create something meaningful ;)
 
 ### ​🗺️​Projects
 
-### :zap: Actividad reciente
+### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Fiorella318/Fiorella318](https://github.com/Fiorella318/Fiorella318)<br>
 2. ⬆️ Pushed undefined commit(s) to [Fiorella318/Fiorella318](https://github.com/Fiorella318/Fiorella318)<br>
