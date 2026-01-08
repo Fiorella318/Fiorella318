@@ -13,7 +13,8 @@ Let’s create something meaningful ;)
 ### ​🗺️​Projects
 
 ### :zap: Actividad reciente
-
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ### 👥​ Contact
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FFiore1228080348&style=for-the-badge&logoColor=%23000000&color=%23000000)
