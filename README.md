@@ -25,7 +25,11 @@ Last Updated: Tuesday, February 24th, 2026, 1:49:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 👥​ Contact
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FFiore1228080348&style=for-the-badge&logoColor=%23000000&color=%23000000)
+X: [text](https://x.com/Fiore1228080348)
+LinkdIn: [text](https://www.linkedin.com/in/fiorella-rios-campos/)
+Website: [text](https://fiorella318.github.io/Fiorella-Rios-Campos.github.io/)
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffiorella-rios-campos%2F&down_message=link&style=for-the-badge&color=%230e70cc)
+
+
+
 
